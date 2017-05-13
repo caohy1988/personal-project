@@ -1,2 +1,2 @@
 # personal-project
-Collection of interesting stuff write by myself
+Collection of interesting stuff 
